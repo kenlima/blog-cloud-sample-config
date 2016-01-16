@@ -1,5 +1,0 @@
-spring:
-  port: 8010
-
-test:
-  value: 'This is Test'
