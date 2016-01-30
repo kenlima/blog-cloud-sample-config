@@ -1,7 +1,7 @@
 server:
   port: 9000
 
-zull:
+zuul:
   ignoredServices: '*'
   routes:
     composite:
