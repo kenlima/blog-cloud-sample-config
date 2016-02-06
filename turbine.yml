@@ -4,8 +4,8 @@ server:
 management:
   port: -1
 
-turbine:
-  aggregator:
-    clusterConfig: COMPOSITE, EDGE-SERVER
-  appConfig: composite, edge-server
+#turbine:
+#  aggregator:
+#    clusterConfig: COMPOSITE, EDGE-SERVER
+#  appConfig: composite, edge-server
 #  clusterNameExpression: new String("default")
