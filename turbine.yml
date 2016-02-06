@@ -3,3 +3,6 @@ server:
 
 management:
   port: 8999
+
+turbine:
+  appConfig: composite, edge-server
