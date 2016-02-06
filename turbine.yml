@@ -2,8 +2,7 @@ server:
   port: ${PORT:8989}
 
 management:
-  port: -1
-
+  port: 8999
 #turbine:
 #  aggregator:
 #    clusterConfig: COMPOSITE, EDGE-SERVER
