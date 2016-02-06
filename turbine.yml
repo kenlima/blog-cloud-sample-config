@@ -6,3 +6,4 @@ management:
 
 turbine:
   appConfig: composite, edge-server
+  clusterNameExpression: new String("default")
